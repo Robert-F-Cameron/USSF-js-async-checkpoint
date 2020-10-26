@@ -1,2 +1,4 @@
 charizard
 pikachu
+squirtle
+mew
